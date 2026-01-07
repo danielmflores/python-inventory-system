@@ -1,26 +1,33 @@
 # Basic Inventory System (Python)
 
-Simple Python project to practice programming concepts through a basic inventory management system. Allows adding, viewing, and managing products, and serves as a learning exercise for software development.
+A basic inventory management system developed in Python using a console interface.  
+This project was created to demonstrate logical problem-solving, code organization, and documentation practices.
 
-This is a simple console-based inventory management system developed in Python.
+##  Project Description
 
-## Purpose
-The goal of this project is to practice basic programming concepts such as:
-- Variables
-- Lists or dictionaries
-- Functions
-- User input handling
+This system allows users to manage a simple inventory by:
+- Adding products
+- Viewing current inventory
+- Registering stock entries and exits
 
-## Description
-The system allows the user to:
-- Add products to the inventory
-- View available products
-- Manage basic stock entries
+The project is intentionally simple and focuses on clarity, readability, and real-world use cases related to inventory control.
 
-This project was created as a learning exercise and does not represent a full production system.
+##  Technologies Used
 
-## Technologies
 - Python 3
+- Console-based interface
+
+##  Purpose of the Project
+
+This project is aligned with my professional experience working with inventories and product management.  
+It serves as a practical example of how real operational processes can be translated into simple software solutions.
+
+##  How to Run
+
+1. Make sure Python 3 is installed
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/inventory-system-python.git
 
 ## Author
 Daniel Flores
